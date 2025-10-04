@@ -1,5 +1,3 @@
-# aws_finance_monitoring
+# jobwatch – Job Market Monitoring & Visualization System
 
-클라우드 엔지니어의 역량을 다지기 위해 생성된 레포지토리입니다
-
-웹 크롤링에서 개발한 프로젝트와 기술 스택으로는 AWS, MySQL, docker, kubernetse를 사용합니다
+채용 트렌드를 자동으로 모니터링하는 시스템
